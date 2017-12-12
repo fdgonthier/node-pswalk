@@ -1,0 +1,13 @@
+{
+  "name": "pswalk",
+  "version": "1.0.0",
+  "description": "Process Walker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "install": "node-gyp rebuild"
+  },
+  "author": "François-Denis Gonthier <francois-denis.gonthier@opersys.com",
+  "license": "Apache-2.0",
+  "gypfile": true
+}
